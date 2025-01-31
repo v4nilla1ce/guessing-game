@@ -89,5 +89,5 @@ This project is open-source under the **MIT License**.
 ---
 
 ## 👨‍💻 Author
-Created by **Your Name**  
+Created by **v4nilla**  
 GitHub: [v4nilla1ce](https://github.com/v4nilla1ce)
